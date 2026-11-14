@@ -10,9 +10,8 @@
 <rect width="1200" height="470" fill="url(#blue)"/><rect width="1200" height="470" fill="url(#small)"/><rect width="1200" height="470" fill="url(#large)"/>
 <circle cx="1040" cy="110" r="170" fill="#D8B4FE" opacity=".10" filter="url(#glow)"/>
 <text x="58" y="48" font-family="monospace" font-size="14" font-weight="bold" fill="#F4F6FF" opacity=".8" letter-spacing="2">VICTOR VICHI · SENAI · 2026</text>
-<rect x="58" y="91" width="205" height="34" fill="#D8B4FE"/><text x="72" y="114" font-family="monospace" font-size="14" font-weight="bold" fill="#160B2B">SENAI</text>
 <text x="56" y="220" font-family="Arial,sans-serif" font-size="82" font-weight="900" letter-spacing="-4" fill="#F4F6FF">VICTOR VICHI</text>
-<text x="62" y="264" font-family="monospace" font-size="20" font-weight="bold" letter-spacing="2" fill="#D8B4FE">DESENVOLVIMENTO DE SISTEMAS · SESI</text>
+<text x="62" y="264" font-family="monospace" font-size="20" font-weight="bold" letter-spacing="2" fill="#D8B4FE">DESENVOLVIMENTO DE SISTEMAS · SENAI</text>
 <text x="62" y="316" font-family="monospace" font-size="18" fill="#F4F6FF">CODE  /  DATABASES  /  PC HARDWARE</text>
 <path d="M60 365H1140" stroke="#F4F6FF" stroke-opacity=".45" stroke-dasharray="5 7"/>
 <text x="60" y="405" font-family="monospace" font-size="13" fill="#F4F6FF" opacity=".8" letter-spacing="1.5">APRENDER · CONSTRUIR · EVOLUIR</text>

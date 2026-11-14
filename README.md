@@ -1,58 +1,83 @@
-<!-- Perfil GitHub — tema escuro com destaque roxo -->
+<!--
+  VICTOR | PROFILE README
+  Visual: midnight / violet / electric purple
+-->
 
 <div align="center">
 
-# Olá! Eu sou o Victor 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:251044,100:7C3AED&height=210&section=header&text=VICTOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%2F%20DATABASES%20%2F%20WEB&descSize=14&descAlignY=60&animation=fadeIn" />
 
-### Estudante de Desenvolvimento de Sistemas
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Explorando+o+mundo+dos+bancos+de+dados;Transformando+ideias+em+projetos+reais" alt="Typing SVG" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Desenvolvimento_de_Sistemas-Estudante-8B5CF6?style=for-the-badge&labelColor=111827" alt="Estudante de Desenvolvimento de Sistemas" />
-  <img src="https://img.shields.io/badge/Foco-SQL%20%7C%20MySQL-8B5CF6?style=for-the-badge&labelColor=111827" alt="Foco em SQL e MySQL" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/FOCO-SQL%20%2F%20MySQL-8B5CF6?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20WEB-A78BFA?style=for-the-badge&labelColor=09090F" />
+<img src="https://komarev.com/ghpvc/?username=victorvichi-dev&style=for-the-badge&color=7C3AED&label=VISITAS" />
 
 </div>
 
----
+<br/>
 
-## 🟣 Sobre mim
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-7C3AED?style=flat-square&labelColor=09090F" />
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas**.
-- 🗄️ Tenho interesse em **bancos de dados**, especialmente SQL e MySQL.
-- 💻 Também desenvolvo páginas web e projetos para pequenos negócios.
-- 🚀 Estou sempre aprendendo e colocando meus conhecimentos em prática.
+Sou estudante de **Desenvolvimento de Sistemas**, gosto de criar projetos e entender como a tecnologia funciona por trás das telas.
 
-## 🧰 Tecnologias e ferramentas
+- 🗄️ **Interesse principal:** bancos de dados, SQL e MySQL.
+- 🌐 **Na prática:** desenvolvimento de páginas e soluções web.
+- ⚡ **Objetivo:** evoluir constantemente e transformar estudo em projetos reais.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=111827" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111827" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111827" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=111827" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
-</p>
+<br/>
 
-## 📌 Projetos
-
-| Projeto | Descrição |
-| --- | --- |
-| [Shopping do Real](https://github.com/victorvichi-dev/shopping-do-real) | Projeto web voltado à divulgação de ofertas. |
-| [AgroCão Petshop](https://github.com/victorvichi-dev/agro-cao-petshop) | Projeto de página para um petshop. |
-| [POP Papelaria](https://github.com/victorvichi-dev/pop-papelaria) | Projeto de página para uma papelaria. |
-| [Landing Page Curinga](https://github.com/victorvichi-dev/LandingPage-Curinga) | Projeto de landing page. |
-| [Sistema de Notas](https://github.com/victorvichi-dev/sistema-notas) | Projeto relacionado a um sistema de notas. |
-
-## 📊 GitHub
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-7C3AED?style=flat-square&labelColor=09090F" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorvichi-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvichi-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Linguagens mais usadas" />
+
+### LINGUAGENS & WEB
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### DATABASE & TOOLS
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
 </div>
 
----
+<br/>
+
+## <img src="https://img.shields.io/badge/03-SELECTED%20PROJECTS-7C3AED?style=flat-square&labelColor=09090F" />
 
 <div align="center">
-  <sub>Construindo, aprendendo e evoluindo um projeto de cada vez. 💜</sub>
+
+<a href="https://github.com/victorvichi-dev/shopping-do-real">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorvichi-dev&repo=shopping-do-real&theme=midnight-purple&hide_border=true" />
+</a>
+<a href="https://github.com/victorvichi-dev/agro-cao-petshop">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorvichi-dev&repo=agro-cao-petshop&theme=midnight-purple&hide_border=true" />
+</a>
+<a href="https://github.com/victorvichi-dev/pop-papelaria">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorvichi-dev&repo=pop-papelaria&theme=midnight-purple&hide_border=true" />
+</a>
+<a href="https://github.com/victorvichi-dev/LandingPage-Curinga">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorvichi-dev&repo=LandingPage-Curinga&theme=midnight-purple&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/04-GITHUB%20ANALYTICS-7C3AED?style=flat-square&labelColor=09090F" />
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorvichi-dev&show_icons=true&hide_border=true&bg_color=09090F&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvichi-dev&layout=compact&hide_border=true&bg_color=09090F&title_color=C4B5FD&text_color=E5E7EB" />
+  <br/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=victorvichi-dev&theme=midnight-purple&hide_border=true&background=09090F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:251044,100:09090F&height=110&section=footer" />
+  <sub><b>BUILD. LEARN. REPEAT.</b> &nbsp;|&nbsp; Feito com 💜 e código.</sub>
 </div>

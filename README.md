@@ -1,50 +1,105 @@
-<!-- VICTOR | PROFILE README — midnight / electric violet -->
+<!-- VICTOR | BLUEPRINT PROFILE -->
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Victor — Development Systems Student | Code, Databases and PC Hardware" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Victor — Desenvolvimento de Sistemas, código, bancos de dados e hardware">
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=DCFF3B)](https://github.com/victorvichi-dev)
+[![Projetos](https://img.shields.io/badge/MEUS_PROJETOS-DCFF3B?style=for-the-badge&labelColor=0A0A0C)](https://github.com/victorvichi-dev?tab=repositories)
 
 </div>
 
-## `01 / SOBRE MIM`
+---
 
-Sou estudante de **Desenvolvimento de Sistemas** e curto explorar tecnologia por diferentes lados: escrever código, trabalhar com dados e entender o hardware que faz tudo funcionar.
+## `FOLHA 01/05` · Quem sou eu? 👋
 
-- **Programação:** C++, JavaScript, HTML e CSS.
-- **Banco de dados:** estudando SQL e MySQL.
-- **Hardware:** componentes, montagem de PCs, compatibilidade, desempenho e diagnóstico.
-- **Desenvolvimento web:** criação de páginas e projetos para pequenos negócios.
+Sou estudante de **Desenvolvimento de Sistemas**, sempre explorando novas formas de criar coisas com tecnologia. Gosto tanto de desenvolver páginas e escrever código quanto de entender o que acontece por trás dos computadores.
 
-## `02 / TECH STACK`
-
-| Área | Tecnologias e conhecimentos |
-|:--|:--|
-| Linguagens | `C++` · `JavaScript` · `HTML5` · `CSS3` |
-| Banco de dados | `SQL` · `MySQL` |
-| Ferramentas | `Git` · `GitHub` · `VS Code` |
-| Hardware | Montagem · Compatibilidade · Diagnóstico · Desempenho |
-
-## `03 / PROJETOS EM DESTAQUE`
-
-Projetos e experiências que estou desenvolvendo:
-
-| Projeto | Sobre |
-|:--|:--|
-| [Shopping do Real](https://github.com/victorvichi-dev/shopping-do-real) | Projeto web para divulgação de ofertas. |
-| [AgroCão Petshop](https://github.com/victorvichi-dev/agro-cao-petshop) | Página web para um petshop. |
-| [POP Papelaria](https://github.com/victorvichi-dev/pop-papelaria) | Projeto de página para uma papelaria. |
-| [Landing Page Curinga](https://github.com/victorvichi-dev/LandingPage-Curinga) | Projeto de landing page. |
-
-## `04 / ALÉM DO CÓDIGO`
-
-Também gosto de montar, configurar e entender computadores. Tenho interesse especial em compatibilidade entre peças, plataformas, processadores, placas de vídeo e otimização de desempenho.
+```text
+▸ estudando     Desenvolvimento de Sistemas
+▸ explorando    C++, JavaScript, SQL e MySQL
+▸ construindo   projetos web para pequenos negócios
+▸ curtindo      hardware, montagem e otimização de PCs
+```
 
 ---
+
+## `FOLHA 02/05` · Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>PROJETO WEB · OFERTAS</sub>
+      <h3><a href="https://github.com/victorvichi-dev/shopping-do-real">Shopping do Real</a></h3>
+      Projeto voltado à divulgação de ofertas e produtos, com foco em uma experiência simples para quem quer encontrar promoções.
+      <br><br>
+      <a href="https://github.com/victorvichi-dev/shopping-do-real"><b>▸ ver repositório</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>COMÉRCIO LOCAL · PETSHOP</sub>
+      <h3><a href="https://github.com/victorvichi-dev/agro-cao-petshop">AgroCão</a></h3>
+      Página web criada para apresentar um petshop e seus serviços de forma clara e visual.
+      <br><br>
+      <a href="https://github.com/victorvichi-dev/agro-cao-petshop"><b>▸ ver repositório</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>COMÉRCIO LOCAL · PAPELARIA</sub>
+      <h3><a href="https://github.com/victorvichi-dev/pop-papelaria">POP Papelaria</a></h3>
+      Projeto de página para uma papelaria, trabalhando apresentação visual e presença digital.
+      <br><br>
+      <a href="https://github.com/victorvichi-dev/pop-papelaria"><b>▸ ver repositório</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>FRONT-END · LANDING PAGE</sub>
+      <h3><a href="https://github.com/victorvichi-dev/LandingPage-Curinga">Landing Page Curinga</a></h3>
+      Projeto de landing page para praticar estrutura, estilização e desenvolvimento de interfaces.
+      <br><br>
+      <a href="https://github.com/victorvichi-dev/LandingPage-Curinga"><b>▸ ver repositório</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `FOLHA 03/05` · Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,git,github,vscode&theme=dark" alt="C++, JavaScript, HTML, CSS, MySQL, Git, GitHub e VS Code">
+
+</div>
+
+| Linguagens | Web | Dados e ferramentas |
+|:--|:--|:--|
+| C++ · JavaScript | HTML5 · CSS3 | SQL · MySQL |
+| | | Git · GitHub · VS Code |
+
+---
+
+## `FOLHA 04/05` · Além do código
+
+Também curto a parte física da tecnologia. Gosto de montar e configurar computadores, pesquisar compatibilidade entre componentes e entender como melhorar o desempenho de cada peça.
+
+```text
+▸ HARDWARE       montagem · componentes · compatibilidade
+▸ DIAGNÓSTICO    identificação de falhas · testes
+▸ PERFORMANCE    configuração · otimização
+```
+
+---
+
+## `FOLHA 05/05` · Próximos passos
+
+Atualmente, quero evoluir principalmente em desenvolvimento web e bancos de dados, colocando o que estudo em prática por meio de projetos reais.
 
 <div align="center">
 
 **Sempre aprendendo. Sempre construindo.**
 
-<sub>Feito por Victor · <a href="https://github.com/victorvichi-dev">GitHub</a></sub>
+<sub>VICTOR.DEV · feito com código e curiosidade</sub>
 
 </div>

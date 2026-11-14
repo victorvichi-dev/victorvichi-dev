@@ -15,7 +15,7 @@
 
 ## `FOLHA 01/05` · Quem sou eu? 👋
 
-Sou **Victor Vichi**, do **SENAI**, e estudo **Desenvolvimento de Sistemas**. Estou sempre explorando novas formas de criar coisas com tecnologia. Gosto tanto de desenvolver páginas e escrever código quanto de entender o que acontece por trás dos computadores.
+Sou **Victor Vichi**, estudante do **SENAI**, e estudo **Desenvolvimento de Sistemas**. Estou sempre explorando novas formas de criar coisas com tecnologia. Gosto tanto de desenvolver páginas e escrever código quanto de entender o que acontece por trás dos computadores.
 
 ```text
 ▸ estudando     Desenvolvimento de Sistemas

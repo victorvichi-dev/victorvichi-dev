@@ -13,7 +13,7 @@
 
 ## Opa, eu sou o Victor 👋
 
-Sou do **SENAI**, estudo **Desenvolvimento de Sistemas** e gosto de aprender colocando a mão na massa. Tenho interesse por programação, criação de sites e bancos de dados — e também curto bastante a parte de hardware e montagem de PCs.
+Sou do **SENAI**, estudo **Desenvolvimento de Sistemas** e gosto de aprender colocando a mão na massa. Tenho interesse por programação, criação de sites e bancos de dados, e também curto bastante a parte de hardware e montagem de PCs.
 
 Atualmente estou explorando principalmente **C++, JavaScript e SQL/MySQL**, enquanto desenvolvo projetos para praticar e ganhar experiência.
 

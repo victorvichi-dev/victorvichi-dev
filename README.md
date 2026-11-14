@@ -5,16 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:251044,100:7C3AED&height=210&section=header&text=VICTOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%2F%20DATABASES%20%2F%20WEB&descSize=14&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:251044,100:7C3AED&height=210&section=header&text=VICTOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%2F%20DATABASES%20%2F%20PC%20HARDWARE&descSize=14&descAlignY=60&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Explorando+o+mundo+dos+bancos+de+dados;Transformando+ideias+em+projetos+reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;C%2B%2B+%7C+SQL+%7C+MySQL;Código%2C+hardware+e+tecnologia+na+prática" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/FOCO-SQL%20%2F%20MySQL-8B5CF6?style=for-the-badge&labelColor=09090F" />
-<img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20WEB-A78BFA?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/LINGUAGEM-C%2B%2B-A78BFA?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/INTERESSE-PC%20HARDWARE-8B5CF6?style=for-the-badge&labelColor=09090F" />
 <img src="https://komarev.com/ghpvc/?username=victorvichi-dev&style=for-the-badge&color=7C3AED&label=VISITAS" />
 
 </div>
@@ -23,11 +24,13 @@
 
 ## <img src="https://img.shields.io/badge/01-ABOUT%20ME-7C3AED?style=flat-square&labelColor=09090F" />
 
-Sou estudante de **Desenvolvimento de Sistemas**, gosto de criar projetos e entender como a tecnologia funciona por trás das telas.
+Sou estudante de **Desenvolvimento de Sistemas** e gosto de explorar a tecnologia tanto no software quanto no hardware.
 
-- 🗄️ **Interesse principal:** bancos de dados, SQL e MySQL.
-- 🌐 **Na prática:** desenvolvimento de páginas e soluções web.
-- ⚡ **Objetivo:** evoluir constantemente e transformar estudo em projetos reais.
+- 🗄️ **Bancos de dados:** interesse em SQL e MySQL.
+- 💻 **Programação:** estudo e desenvolvimento com C++ e tecnologias web.
+- 🖥️ **Hardware:** conhecimento sobre componentes de PC, montagem, compatibilidade e desempenho.
+- 🌐 **Na prática:** criação de páginas e soluções web.
+- ⚡ **Objetivo:** aprender continuamente e transformar conhecimento em projetos reais.
 
 <br/>
 
@@ -36,10 +39,14 @@ Sou estudante de **Desenvolvimento de Sistemas**, gosto de criar projetos e ente
 <div align="center">
 
 ### LINGUAGENS & WEB
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark" />
 
 ### DATABASE & TOOLS
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+### PC HARDWARE
+<img src="https://img.shields.io/badge/PC%20BUILDING-Componentes%20%26%20Compatibilidade-8B5CF6?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/HARDWARE-Performance%20%26%20Troubleshooting-A78BFA?style=for-the-badge&labelColor=09090F" />
 
 </div>
 

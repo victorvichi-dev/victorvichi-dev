@@ -1,105 +1,50 @@
-<!-- VICTOR | BLUEPRINT PROFILE -->
+<!-- VICTOR VICHI | PROFILE -->
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/victorvichi-dev/victorvichi-dev/main/assets/profile-banner.svg?v=44a786b" width="100%" alt="Victor Vichi — SENAI e Desenvolvimento de Sistemas">
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-160B2B?style=for-the-badge&logo=github&logoColor=D8B4FE)](https://github.com/victorvichi-dev)
-[![Projetos](https://img.shields.io/badge/MEUS_PROJETOS-D8B4FE?style=for-the-badge&labelColor=160B2B)](https://github.com/victorvichi-dev?tab=repositories)
-
+  <img src="https://raw.githubusercontent.com/victorvichi-dev/victorvichi-dev/main/assets/profile-banner.svg?v=20261113" width="100%" alt="Victor Vichi — SENAI e Desenvolvimento de Sistemas">
 </div>
 
----
-
-## `FOLHA 01/05` · Quem sou eu? 👋
-
-Sou **Victor Vichi**, estudante do **SENAI**, e estudo **Desenvolvimento de Sistemas**. Estou sempre explorando novas formas de criar coisas com tecnologia. Gosto tanto de desenvolver páginas e escrever código quanto de entender o que acontece por trás dos computadores.
-
-```text
-▸ estudando     Desenvolvimento de Sistemas
-▸ explorando    C++, JavaScript, SQL e MySQL
-▸ construindo   projetos web para pequenos negócios
-▸ curtindo      hardware, montagem e otimização de PCs
-```
-
----
-
-## `FOLHA 02/05` · Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>PROJETO WEB · OFERTAS</sub>
-      <h3><a href="https://github.com/victorvichi-dev/shopping-do-real">Shopping do Real</a></h3>
-      Projeto voltado à divulgação de ofertas e produtos, com foco em uma experiência simples para quem quer encontrar promoções.
-      <br><br>
-      <a href="https://github.com/victorvichi-dev/shopping-do-real"><b>▸ ver repositório</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>COMÉRCIO LOCAL · PETSHOP</sub>
-      <h3><a href="https://github.com/victorvichi-dev/agro-cao-petshop">AgroCão</a></h3>
-      Página web criada para apresentar um petshop e seus serviços de forma clara e visual.
-      <br><br>
-      <a href="https://github.com/victorvichi-dev/agro-cao-petshop"><b>▸ ver repositório</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>COMÉRCIO LOCAL · PAPELARIA</sub>
-      <h3><a href="https://github.com/victorvichi-dev/pop-papelaria">POP Papelaria</a></h3>
-      Projeto de página para uma papelaria, trabalhando apresentação visual e presença digital.
-      <br><br>
-      <a href="https://github.com/victorvichi-dev/pop-papelaria"><b>▸ ver repositório</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>FRONT-END · LANDING PAGE</sub>
-      <h3><a href="https://github.com/victorvichi-dev/LandingPage-Curinga">Landing Page Curinga</a></h3>
-      Projeto de landing page para praticar estrutura, estilização e desenvolvimento de interfaces.
-      <br><br>
-      <a href="https://github.com/victorvichi-dev/LandingPage-Curinga"><b>▸ ver repositório</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## `FOLHA 03/05` · Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,git,github,vscode&theme=dark" alt="C++, JavaScript, HTML, CSS, MySQL, Git, GitHub e VS Code">
-
+  <a href="https://github.com/victorvichi-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/MEUS_PROJETOS-8B5CF6?style=flat-square&labelColor=1A1028" alt="Meus projetos">
+  </a>
+  <img src="https://img.shields.io/badge/SENAI-1A1028?style=flat-square&logo=bookstack&logoColor=C4B5FD" alt="SENAI">
 </div>
 
-| Linguagens | Web | Dados e ferramentas |
-|:--|:--|:--|
-| C++ · JavaScript | HTML5 · CSS3 | SQL · MySQL |
-| | | Git · GitHub · VS Code |
+## Opa, eu sou o Victor 👋
 
----
+Sou do **SENAI**, estudo **Desenvolvimento de Sistemas** e gosto de aprender colocando a mão na massa. Tenho interesse por programação, criação de sites e bancos de dados — e também curto bastante a parte de hardware e montagem de PCs.
 
-## `FOLHA 04/05` · Além do código
+Atualmente estou explorando principalmente **C++, JavaScript e SQL/MySQL**, enquanto desenvolvo projetos para praticar e ganhar experiência.
 
-Também curto a parte física da tecnologia. Gosto de montar e configurar computadores, pesquisar compatibilidade entre componentes e entender como melhorar o desempenho de cada peça.
-
-```text
-▸ HARDWARE       montagem · componentes · compatibilidade
-▸ DIAGNÓSTICO    identificação de falhas · testes
-▸ PERFORMANCE    configuração · otimização
-```
-
----
-
-## `FOLHA 05/05` · Próximos passos
-
-Atualmente, quero evoluir principalmente em desenvolvimento web e bancos de dados, colocando o que estudo em prática por meio de projetos reais.
+## O que estou usando
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tecnologias: C++, JavaScript, HTML, CSS, MySQL, Git, GitHub e VS Code">
+</div>
 
-**Sempre aprendendo. Sempre construindo.**
+- **Programação:** C++ e JavaScript
+- **Web:** HTML e CSS
+- **Banco de dados:** SQL e MySQL
+- **Ferramentas:** Git, GitHub e VS Code
 
-<sub>VICTOR.DEV · feito com código e curiosidade</sub>
+## Coisas que já construí
 
+| Projeto | Sobre |
+|:--|:--|
+| [**Shopping do Real**](https://github.com/victorvichi-dev/shopping-do-real) | Projeto web para divulgar ofertas e produtos. |
+| [**AgroCão Petshop**](https://github.com/victorvichi-dev/agro-cao-petshop) | Página para apresentar um petshop e seus serviços. |
+| [**POP Papelaria**](https://github.com/victorvichi-dev/pop-papelaria) | Página web para uma papelaria. |
+| [**Landing Page Curinga**](https://github.com/victorvichi-dev/LandingPage-Curinga) | Projeto para praticar criação e estilização de interfaces. |
+
+## Fora do editor
+
+Também gosto de mexer com computadores: pesquisar peças, montar máquinas, resolver problemas de hardware e buscar formas de melhorar o desempenho.
+
+## Por aqui...
+
+Quero continuar evoluindo em programação e bancos de dados, criar projetos cada vez melhores e aprender tecnologias novas no caminho.
+
+<div align="center">
+  <sub>Valeu por visitar meu perfil! 💜</sub>
 </div>

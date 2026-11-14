@@ -6,8 +6,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=DCFF3B)](https://github.com/victorvichi-dev)
-[![Projetos](https://img.shields.io/badge/MEUS_PROJETOS-DCFF3B?style=for-the-badge&labelColor=0A0A0C)](https://github.com/victorvichi-dev?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-160B2B?style=for-the-badge&logo=github&logoColor=D8B4FE)](https://github.com/victorvichi-dev)
+[![Projetos](https://img.shields.io/badge/MEUS_PROJETOS-D8B4FE?style=for-the-badge&labelColor=160B2B)](https://github.com/victorvichi-dev?tab=repositories)
 
 </div>
 

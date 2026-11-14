@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Victor Vichi — SENAI e Desenvolvimento de Sistemas">
+<img src="https://raw.githubusercontent.com/victorvichi-dev/victorvichi-dev/main/assets/profile-banner.svg?v=44a786b" width="100%" alt="Victor Vichi — SENAI e Desenvolvimento de Sistemas">
 
 <br>
 
